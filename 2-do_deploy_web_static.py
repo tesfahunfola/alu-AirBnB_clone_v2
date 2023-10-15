@@ -6,7 +6,7 @@ import re
 from datetime import datetime
 
 env.user = 'ubuntu'
-env.hosts = ['3.80.74.138', '3.88.68.105']
+env.hosts = ['52.91.15.218', '54.174.229.7']
 
 
 def do_pack():
